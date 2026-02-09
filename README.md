@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salut ! <br><br>Je suis étudiant à L'ENI informatique à Rennes et futur développeur passionné par  le développement web les bases de données mais aussi par de grand domaine tels que le quantique !.<br><br>---<br><br>- Actuellement je travaille sur : Mon portfolio et mon projet memory.<br>- Je cherche un stage du 20 avril au 12 juin.<br>- J'apprends actuellement :  Spring boot.<br><br>
+Salut ! <br><br>Je suis étudiant à L'ENI informatique à Rennes et futur développeur passionné par  le développement web les bases de données mais aussi par de grand domaine tels que le quantique !.<br><br>---<br><br>- Actuellement je travaille sur : Mon portfolio et mon projet memory.<br>- Je cherche une Alternance pour la rentrée dès Septembre 2026.<br>- J'apprends actuellement :  Spring boot et tailwind CSS.<br><br>
 
 
 ## 🌐 Socials:
