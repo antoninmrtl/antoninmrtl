@@ -1,5 +1,5 @@
 # 💫 About Me:
-Salut ! <br><br>Je suis étudiant à L'ENI informatique à Rennes et futur développeur passionné par  le développement web les bases de données mais aussi par de grand domaine tels que le quantique !.<br><br>---<br><br>- Actuellement je travaille sur : Mon portfolio et un projet Symfony.<br>- Je cherche une Alternance pour la rentrée dès Septembre 2026.<br>- J'apprends actuellement :  PHP et FrameWork Symfony.<br><br>
+Salut ! <br><br>Je suis étudiant à L'ENI informatique à Rennes et futur développeur passionné par  le développement web les bases de données mais aussi par de grand domaine tels que le quantique !<br><br>---<br><br>- Actuellement je travaille sur : Mon portfolio et un projet Symfony.<br>- Je cherche une Alternance pour la rentrée dès Septembre 2026.<br>- J'apprends actuellement :  PHP et FrameWork Symfony.<br><br>
 
 
 ## 🌐 Socials:
